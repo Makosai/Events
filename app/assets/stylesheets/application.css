@@ -13,3 +13,25 @@
  *= require_tree .
  *= require_self
  */
+<style type="text/css">
+  .tg  {color: #E96D63;background-color: #7FCA9F;border-collapse:collapse;border-spacing:0;border-color:#ccc;}
+  .tg td{color: #E96D63;background-color: #7FCA9F;font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;}
+  .tg th{color: #E96D63;background-color: #7FCA9F;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#f0f0f0;}
+  .tg .tg-s6z2{text-align:center}
+  .tg .tg-hgcj{font-weight:bold;text-align:center}
+
+  /*COLORS green #7FCA9F/#5BBB84/#4AB377, red #E96D63/#E34336/#E02E20, orange #F4BA70, skyblue #85C1F5, darkblue #4A789C */
+  body {color: #E96D63;background-color: #7FCA9F;}
+
+  /* unvisited link */
+  a:link {}
+
+  /* visited link */
+  a:visited {}
+
+  /* mouse over link */
+  a:hover {color: #E96D63;background-color: #FFFFFF;}
+
+  /* selected link */
+  a:active {color: #E02E20;}
+</style>
